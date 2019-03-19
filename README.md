@@ -18,4 +18,4 @@ For running the simulator press Cmd + R
 
 ## Demo
 
-<img src="https://media.giphy.com/media/oX7vvtRQSu5TlgCVHS/giphy.gif" width="300">
+<img src="https://media.giphy.com/media/oX7vvtRQSu5TlgCVHS/source.gif" width="300">
